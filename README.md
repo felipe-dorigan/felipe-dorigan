@@ -24,7 +24,7 @@
 ## 🚀 Sobre mim
 
 Sou **desenvolvedor Full Stack na Dotplan**, com foco em criar soluções web funcionais, bonitas e bem estruturadas.  
-A parte criativa e os **desenhos realistas** fizeram parte da minha trajetória, e hoje tenho direcionado bastante meus estudos para as áreas de **finanças** e **contabilidade**.
+A parte criativa e os **desenhos realistas** fizeram parte da minha trajetória, e hoje tenho direcionado bastante meus estudos para as áreas de **finanças**, **contabilidade**, **negócios** e **administração**, mas sem perder a essência da tecnologia.
 
 - 💼 Atualmente trabalhando como **Full Stack @Dotplan**
 - 🎓 Cursando pós-graduação em **Controladoria, Auditoria e Finanças Corporativas**
