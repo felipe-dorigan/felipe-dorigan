@@ -101,15 +101,14 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, con
 
 # 📊 Estatísticas
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipe-dorigan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-dorigan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=felipe-dorigan\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-dorigan\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=felipe-dorigan\&theme=tokyonight\&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=felipe-dorigan&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
