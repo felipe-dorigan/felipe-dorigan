@@ -29,7 +29,7 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura de software, con
 
 ---
 
-# 💻 Stack Principal
+# 💻 Tecnologias & Ferramentas
 
 ## Backend
 
