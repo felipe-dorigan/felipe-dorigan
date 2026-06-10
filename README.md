@@ -14,9 +14,6 @@
   <a href="https://instagram.com/lipe_dorigan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/FelipeDorigan">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -79,7 +76,6 @@ Se quiser trocar uma ideia sobre desenvolvimento, tecnologia, finanças ou proje
 - 🔗 GitHub: [github.com/felipe-dorigan](https://github.com/felipe-dorigan)
 - 💼 LinkedIn: [felipe-dorigan](https://www.linkedin.com/in/felipe-dorigan-6649bb175/)
 - 📸 Instagram: [@lipe_dorigan](https://instagram.com/lipe_dorigan)
-- 🌐 Linktree: [linktr.ee/FelipeDorigan](https://linktr.ee/FelipeDorigan)
 
 ---
 
