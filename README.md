@@ -1,82 +1,126 @@
-<h1 align="center">Olá, eu sou Felipe Dorigan 👋</h1>
+# 👋 Olá, eu sou Felipe Dorigan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tecnologia+com+vis%C3%A3o+de+neg%C3%B3cio;Finan%C3%A7as+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/felipe-dorigan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-dorigan-6649bb175/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lipe_dorigan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;ERP+Developer;Tecnologia+%2B+Finan%C3%A7as+%2B+Neg%C3%B3cios;Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+com+vis%C3%A3o+estrat%C3%A9gica)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/felipe-dorigan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipe-dorigan-6649bb175/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/lipe_dorigan)
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou **desenvolvedor Full Stack na Dotplan**, com foco em criar soluções web funcionais, bonitas e bem estruturadas.  
-A parte criativa e os **desenhos realistas** fizeram parte da minha trajetória, e hoje tenho direcionado bastante meus estudos para as áreas de **finanças**, **contabilidade**, **negócios** e **administração**, mas sem perder a essência da tecnologia.
+Sou desenvolvedor Full Stack com mais de 6 anos de experiência no desenvolvimento de sistemas corporativos, ERPs e soluções web.
 
-- 💼 Atualmente trabalhando como **Full Stack @Dotplan**
-- 🎓 Cursando pós-graduação em **Controladoria, Auditoria e Finanças Corporativas**
-- 📚 Estudando **finanças, contabilidade e tecnologia aplicada a negócios**
-- 🌱 Evoluindo em **React, Next.js, Node.js, PHP e TypeScript**
-- 📍 Baseado em **São José dos Pinhais - PR**
+Minha atuação vai além da programação: busco conectar tecnologia, processos, finanças e estratégia de negócio para criar soluções que gerem valor real para as empresas.
 
----
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, controladoria, auditoria, finanças corporativas, gestão e inteligência artificial aplicada aos negócios.
 
-## 💻 Tecnologias & Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+* 💼 Desenvolvedor Full Stack
+* 🎓 Pós-graduando em Controladoria, Auditoria e Finanças Corporativas
+* 📚 Estudando Arquitetura de Software, ERP, Gestão e IA
+* 🌱 Evoluindo em Go, React, Next.js, Laravel, TypeScript e Cloud
+* 🎯 Objetivo de carreira: Arquitetura de Software, Gestão Estratégica e Liderança
+* 📍 Paraná, Brasil
 
 ---
 
-## 📌 O que você vai encontrar por aqui
+# 💻 Stack Principal
 
-- Sistemas web, APIs e automações
-- Interfaces modernas com foco em experiência do usuário
-- Estudos e projetos conectando **tecnologia, finanças e organização**
-- Soluções que combinam **visual, performance e visão de negócio**
+## Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+## Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+## Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📌 Projetos e Áreas de Interesse
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipe-dorigan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-dorigan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=felipe-dorigan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Vamos nos conectar
-
-Se quiser trocar uma ideia sobre desenvolvimento, tecnologia, finanças ou projetos, fico à disposição:
-
-- 🔗 GitHub: [github.com/felipe-dorigan](https://github.com/felipe-dorigan)
-- 💼 LinkedIn: [felipe-dorigan](https://www.linkedin.com/in/felipe-dorigan-6649bb175/)
-- 📸 Instagram: [@lipe_dorigan](https://instagram.com/lipe_dorigan)
+* 🏗️ Sistemas ERP para construção civil
+* 📦 Gestão logística e cadeia de suprimentos
+* 💰 Finanças, controladoria e auditoria
+* 🤖 Inteligência Artificial aplicada aos negócios
+* 📊 Dados para apoio à tomada de decisão
+* ⚙️ Arquitetura de Software e boas práticas
+* 🚀 Sistemas escaláveis e orientados a eventos
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+# 🏆 Destaques
+
+* Desenvolvimento de módulos ERP para gestão de compras, estoque, orçamento e recursos.
+* Integração entre plataformas educacionais e APIs governamentais para validação e emissão automatizada de certificados.
+* Participação em decisões de produto, processos e evolução de negócios.
+* Apoio técnico à liderança e organização de equipes.
+* Experiência conectando áreas de tecnologia, operação e gestão.
+
+---
+
+# 📚 Atualmente estudando
+
+* Go
+* Arquitetura Orientada a Eventos
+* PostgreSQL Avançado
+* Kafka
+* Kubernetes
+* Controladoria e Finanças Corporativas
+* Inteligência Artificial aplicada à gestão
+* Arquitetura de Software
+* Liderança e Gestão
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=felipe-dorigan\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-dorigan\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=felipe-dorigan\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# 🤝 Vamos nos conectar
+
+* GitHub: https://github.com/felipe-dorigan
+* LinkedIn: https://www.linkedin.com/in/felipe-dorigan-6649bb175/
+* Instagram: https://instagram.com/lipe_dorigan
+
+---
+
+> "Tecnologia gera valor quando está alinhada ao negócio."
+
+⭐ Sempre aberto a conversar sobre desenvolvimento de software, arquitetura, ERP, finanças, gestão e inovação.
