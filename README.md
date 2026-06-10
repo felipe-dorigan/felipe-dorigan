@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Felipe Dorigan
+<h1 align="center">Olá, eu sou Felipe Dorigan 👋</h1>
 
 <div align="center">
 
